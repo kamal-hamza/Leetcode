@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 You are given an Array ```items```, where each ```items[i] = [typei, colori, namei]``` describes the type, color, and name of the ```ith``` item. You are also given a rule represented by two strings, ```ruleKey``` and ```ruleValue```.
 
 The ```ith``` item is said to match the rule if one of the following is true:
@@ -27,6 +26,4 @@ Constraints:
 ```1 <= typei.length, colori.length, namei.length, ruleValue.length <= 10```
 ```ruleKey``` is equal to either ```"type"```, ```"color"```, or ```"name"```.
 All strings consist only of lowercase letters.
-=======
 You are given an Array ```items```, where each ```items[i] = [typei, colori, namei]```
->>>>>>> d47716e590a0312681258857e66352f0f88e4e35
