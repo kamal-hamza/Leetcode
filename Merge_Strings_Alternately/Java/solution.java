@@ -1,4 +1,4 @@
-class Solution {
+class solution {
 
     public String mergeAlternately(String word1, String word2) {
         
@@ -20,7 +20,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution sol = new Solution();
+        solution sol = new solution();
         sol.mergeAlternately("abcd", "pq");
     }
     
