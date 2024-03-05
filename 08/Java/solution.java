@@ -28,7 +28,5 @@ class Solution {
         ans = (ans < Integer.MIN_VALUE) ? Integer.MIN_VALUE : ans;
 
         return (int)ans;
-
-
     }
 }
